@@ -1,18 +1,18 @@
 <span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;">.background {
-background: url(background.png);
+background: url("assets/background.png");
 }
 </span>
 .logo {
-background-image: url(logo.png);
+background-image: url("assets/logo.png");
 }
 .progressBar {
 background-color: rgb(155, 255, 100);
 }
 .splash {
-background-image: url(splash.png);
+background-image: url("assets/splash.png");
 }
 .watermark {
-background-image: url(watermark.png);
+background-image: url("assets/watermark.png");
 background-size: 57px 57px;
 }
  
