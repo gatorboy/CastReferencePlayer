@@ -1,19 +1,20 @@
-<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;">.background {
-background: url("assets/background.png");
+.background {
+  background: center no-repeat url("assets/background.png");
 }
-</span>
+
 .logo {
-background-image: url("assets/logo.png");
+  background-image: url("assets/logo.png");
 }
+
 .progressBar {
-background-color: rgb(155, 255, 100);
+  background-color: rgb(238, 255, 65);
 }
+
 .splash {
-background-image: url("assets/splash.png");
+  background-image: url("assets/splash.png");
 }
+
 .watermark {
-background-image: url("assets/watermark.png");
-background-size: 57px 57px;
+  background-image: url("assets/watermark.png");
+  background-size: 57px 57px;
 }
- 
-</span>
